@@ -1,0 +1,20 @@
+{
+	x: 5.0d,
+	y: 4.0d,
+	description: "Amina",
+	text: [
+		"制作磨粉机。"
+	],
+	dependencies: [
+		"3e6c02dd",
+		"5113bd31"
+	],
+	hide: true,
+	tasks: [{
+		uid: "aa842a19",
+		type: "item",
+		items: [{
+			item: "techreborn:grinder"
+		}]
+	}]
+}

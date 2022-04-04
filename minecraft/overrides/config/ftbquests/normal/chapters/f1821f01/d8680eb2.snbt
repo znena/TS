@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: -2.5d,
+	description: "Balta",
+	text: [
+		"制作进阶机械外壳。"
+	],
+	dependencies: [
+		"5209e969",
+		"99eafa0b"
+	],
+	tasks: [{
+		uid: "d1bec9a1",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_casing 1 1"
+		}]
+	}]
+}

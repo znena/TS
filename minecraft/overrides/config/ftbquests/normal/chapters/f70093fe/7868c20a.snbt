@@ -1,0 +1,19 @@
+{
+	title: "更高级的熔炉",
+	x: 1.5d,
+	y: -2.5d,
+	description: "Amina",
+	text: [
+		"制作铁炉。"
+	],
+	dependencies: [
+		"68008bab"
+	],
+	tasks: [{
+		uid: "4f062d29",
+		type: "item",
+		items: [{
+			item: "techreborn:iron_furnace"
+		}]
+	}]
+}

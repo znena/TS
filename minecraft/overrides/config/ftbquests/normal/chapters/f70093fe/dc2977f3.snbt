@@ -1,0 +1,16 @@
+{
+	title: "石匠",
+	x: -1.5d,
+	y: 0.0d,
+	description: "Amina",
+	text: [
+		"制作一块原石。"
+	],
+	tasks: [{
+		uid: "829e14dd",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}]
+	}]
+}

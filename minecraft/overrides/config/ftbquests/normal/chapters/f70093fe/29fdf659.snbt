@@ -1,0 +1,28 @@
+{
+	title: "工业准备",
+	x: 1.5d,
+	y: 1.0d,
+	description: "Amina",
+	text: [
+		"炼制铜锭和铁锭。"
+	],
+	dependencies: [
+		"dc2977f3"
+	],
+	tasks: [{
+		uid: "96c25d7d",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 4"
+		}],
+		count: 8L
+	},
+	{
+		uid: "a997006a",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 13"
+		}],
+		count: 8L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 8.5d,
+	y: 4.0d,
+	description: "Amina",
+	text: [
+		"制作固体灌装机。"
+	],
+	dependencies: [
+		"2510cea9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9060bf28",
+		type: "item",
+		items: [{
+			item: "techreborn:solid_canning_machine"
+		}]
+	}]
+}

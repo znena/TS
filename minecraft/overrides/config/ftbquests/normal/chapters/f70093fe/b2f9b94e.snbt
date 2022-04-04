@@ -1,0 +1,21 @@
+{
+	title: "初级材料：版",
+	x: 8.5d,
+	y: -1.5d,
+	description: "Amina",
+	text: [
+		"制作琥珀金版。"
+	],
+	dependencies: [
+		"10364850",
+		"e396e50c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8dd74886",
+		type: "item",
+		items: [{
+			item: "techreborn:plates 1 22"
+		}]
+	}]
+}

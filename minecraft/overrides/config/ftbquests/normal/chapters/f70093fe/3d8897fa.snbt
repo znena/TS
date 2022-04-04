@@ -1,0 +1,16 @@
+{
+	title: "原始磨粉",
+	x: 6.5d,
+	y: -4.0d,
+	description: "Amina",
+	dependencies: [
+		"fe453feb"
+	],
+	tasks: [{
+		uid: "195a49db",
+		type: "item",
+		items: [{
+			item: "contenttweaker:boron_mortar"
+		}]
+	}]
+}

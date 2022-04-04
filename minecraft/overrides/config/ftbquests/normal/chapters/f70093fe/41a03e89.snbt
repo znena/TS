@@ -1,0 +1,19 @@
+{
+	title: "铁器时代",
+	x: 0.0d,
+	y: -1.0d,
+	description: "Amina",
+	text: [
+		"炼制一个铁锭。"
+	],
+	dependencies: [
+		"dc2977f3"
+	],
+	tasks: [{
+		uid: "7e987157",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}]
+	}]
+}

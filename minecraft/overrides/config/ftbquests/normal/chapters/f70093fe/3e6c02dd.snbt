@@ -1,0 +1,24 @@
+{
+	title: "电气时代！",
+	x: 3.0d,
+	y: 1.5d,
+	description: "Amina",
+	text: [
+		"制作火力发电机。"
+	],
+	dependencies: [
+		"bfbba2b3",
+		"68008bab",
+		"29fdf659",
+		"474eb542"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "92d1e401",
+		type: "item",
+		items: [{
+			item: "techreborn:solid_fuel_generator"
+		}]
+	}]
+}

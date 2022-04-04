@@ -1,0 +1,26 @@
+{
+	x: 6.5d,
+	y: -2.5d,
+	description: "Amina",
+	text: [
+		"制作任意锻锤。"
+	],
+	dependencies: [
+		"7d940ae5"
+	],
+	tasks: [{
+		uid: "2ad03b6e",
+		type: "item",
+		title: "锤",
+		items: [{
+			item: "contenttweaker:bronze_hammer"
+		},
+		{
+			item: "contenttweaker:refined_iron_hammer"
+		},
+		{
+			item: "contenttweaker:tough_alloy_hammer"
+		}],
+		ignore_damage: true
+	}]
+}

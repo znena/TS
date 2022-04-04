@@ -1,0 +1,20 @@
+{
+	title: "高级发电机",
+	x: 13.5d,
+	y: 4.0d,
+	description: "Amina",
+	text: [
+		"制作半流质发电机。"
+	],
+	dependencies: [
+		"a117e09a",
+		"04246a47"
+	],
+	tasks: [{
+		uid: "17144a95",
+		type: "item",
+		items: [{
+			item: "techreborn:semi_fluid_generator"
+		}]
+	}]
+}

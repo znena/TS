@@ -1,0 +1,26 @@
+{
+	title: "黏糊糊的",
+	x: 0.0d,
+	y: 2.5d,
+	description: "Amina",
+	text: [
+		"获得橡胶树苗和粘性树脂。"
+	],
+	dependencies: [
+		"dc2977f3"
+	],
+	tasks: [{
+		uid: "d9e1ce67",
+		type: "item",
+		items: [{
+			item: "techreborn:rubber_sapling"
+		}]
+	},
+	{
+		uid: "e6bb7fcf",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 31"
+		}]
+	}]
+}

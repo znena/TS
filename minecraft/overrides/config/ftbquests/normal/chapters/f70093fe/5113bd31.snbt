@@ -1,0 +1,20 @@
+{
+	title: "前低压时代",
+	x: 6.5d,
+	y: 2.5d,
+	description: "Amina",
+	text: [
+		"制作一个空白电路板。"
+	],
+	dependencies: [
+		"675f1f89"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b549fd68",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 40"
+		}]
+	}]
+}

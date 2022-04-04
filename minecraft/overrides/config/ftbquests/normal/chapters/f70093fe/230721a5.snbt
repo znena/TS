@@ -1,0 +1,20 @@
+{
+	title: "电力熔炼",
+	x: 3.0d,
+	y: -2.5d,
+	description: "Amina",
+	text: [
+		"制作电炉。"
+	],
+	dependencies: [
+		"7868c20a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "78c68097",
+		type: "item",
+		items: [{
+			item: "techreborn:electric_furnace"
+		}]
+	}]
+}

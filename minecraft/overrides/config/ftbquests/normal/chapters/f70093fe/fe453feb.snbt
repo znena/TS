@@ -1,0 +1,20 @@
+{
+	title: "硼",
+	x: 5.0d,
+	y: -4.0d,
+	description: "Amina",
+	text: [
+		"挖掘硼矿并烧制。硼矿在第一阶段以后被解锁。",
+		"合成一个硼锭。"
+	],
+	dependencies: [
+		"f14312c4"
+	],
+	tasks: [{
+		uid: "6fe7d356",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ingot 1 5"
+		}]
+	}]
+}

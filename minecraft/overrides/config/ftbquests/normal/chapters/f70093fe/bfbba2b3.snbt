@@ -1,0 +1,17 @@
+{
+	title: "通量核心",
+	x: 1.5d,
+	y: 3.5d,
+	description: "Amina",
+	dependencies: [
+		"41a03e89"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ab2bfa04",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:flux"
+		}]
+	}]
+}

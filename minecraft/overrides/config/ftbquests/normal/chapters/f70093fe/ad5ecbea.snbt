@@ -1,0 +1,19 @@
+{
+	x: 10.5d,
+	y: 2.5d,
+	description: "Amina",
+	text: [
+		"制作高级空白电路板"
+	],
+	dependencies: [
+		"2510cea9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a0c47ad7",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 41"
+		}]
+	}]
+}

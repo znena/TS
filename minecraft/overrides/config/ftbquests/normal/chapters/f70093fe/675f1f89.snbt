@@ -1,0 +1,21 @@
+{
+	title: "导电铁锭",
+	x: 6.5d,
+	y: -0.5d,
+	description: "Amina",
+	text: [
+		"获得4个导电铁锭。"
+	],
+	dependencies: [
+		"3d8897fa"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e44bed83",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot 1 4"
+		}],
+		count: 4L
+	}]
+}

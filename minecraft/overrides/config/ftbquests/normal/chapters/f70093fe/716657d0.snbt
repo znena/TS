@@ -1,0 +1,21 @@
+{
+	title: "电力合金",
+	x: 5.0d,
+	y: 1.0d,
+	description: "Amina",
+	text: [
+		"制作合金炉。"
+	],
+	dependencies: [
+		"3e6c02dd",
+		"5113bd31",
+		"230721a5"
+	],
+	tasks: [{
+		uid: "f5e2e919",
+		type: "item",
+		items: [{
+			item: "techreborn:alloy_smelter"
+		}]
+	}]
+}

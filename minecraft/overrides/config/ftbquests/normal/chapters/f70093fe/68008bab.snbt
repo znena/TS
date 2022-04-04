@@ -1,0 +1,20 @@
+{
+	title: "精炼铁",
+	x: 1.5d,
+	y: -1.0d,
+	description: "Amina",
+	text: [
+		"烧制并合成4个精炼铁锭。"
+	],
+	dependencies: [
+		"41a03e89"
+	],
+	tasks: [{
+		uid: "056ec1ee",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 19"
+		}],
+		count: 4L
+	}]
+}

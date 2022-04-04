@@ -1,0 +1,20 @@
+{
+	title: "低压机械方块",
+	x: 10.5d,
+	y: -0.5d,
+	description: "Amina",
+	text: [
+		"制作基础机械外壳。"
+	],
+	dependencies: [
+		"2510cea9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7d75eb52",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_casing"
+		}]
+	}]
+}

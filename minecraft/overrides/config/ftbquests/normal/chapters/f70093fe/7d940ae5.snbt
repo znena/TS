@@ -1,0 +1,21 @@
+{
+	title: "青铜时代",
+	x: 5.0d,
+	y: -2.5d,
+	description: "Amina",
+	text: [
+		"烧炼8个青铜锭。"
+	],
+	dependencies: [
+		"716657d0"
+	],
+	hide: true,
+	tasks: [{
+		uid: "298a14fa",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 2"
+		}],
+		count: 8L
+	}]
+}

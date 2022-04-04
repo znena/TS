@@ -1,0 +1,22 @@
+{
+	title: "低压时代！",
+	x: 8.5d,
+	y: 2.5d,
+	description: "Amina",
+	text: [
+		"制作基础电路板。"
+	],
+	dependencies: [
+		"5113bd31",
+		"b2f9b94e"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "864c8b51",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 29"
+		}]
+	}]
+}

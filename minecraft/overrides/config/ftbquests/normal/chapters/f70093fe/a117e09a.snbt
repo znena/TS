@@ -1,0 +1,21 @@
+{
+	x: 13.5d,
+	y: 1.0d,
+	description: "Amina",
+	text: [
+		"制作压缩机。"
+	],
+	dependencies: [
+		"a2e3c55f",
+		"ad5ecbea"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "0e5e0113",
+		type: "item",
+		items: [{
+			item: "techreborn:compressor"
+		}]
+	}]
+}

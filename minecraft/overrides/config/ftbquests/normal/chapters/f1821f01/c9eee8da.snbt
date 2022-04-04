@@ -1,0 +1,20 @@
+{
+	title: "中级材料：版",
+	x: 3.0d,
+	y: 3.5d,
+	description: "Balta",
+	text: [
+		"制作硅版。"
+	],
+	dependencies: [
+		"8a10b932"
+	],
+	hide: true,
+	tasks: [{
+		uid: "811af988",
+		type: "item",
+		items: [{
+			item: "techreborn:plates 1 11"
+		}]
+	}]
+}
