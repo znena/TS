@@ -1,0 +1,9 @@
+{
+    title : "Technology Synchronization",
+    version : "0.0.4.4",
+	version : 15 ,
+	version_detailed : "0.0.4.4 dev",
+	version_detailed : 75,
+	authors : ["znena", "Qerenedit"],
+	update_time : 385
+}
