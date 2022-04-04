@@ -1,0 +1,33 @@
+{
+	title: "第五阶段",
+	icon: "astralsorcery:itemcraftingcomponent 1 2",
+	x: 12.0d,
+	y: 0.0d,
+	description: "Cyxa",
+	text: [
+		"..."
+	],
+	dependencies: [
+		"99136926"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "44e4bf49",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_star"
+		}]
+	},
+	{
+		uid: "9bb150a2",
+		type: "checkmark",
+		title: "确认"
+	},
+	{
+		uid: "37378b64",
+		type: "gamestage",
+		title: "第五阶段",
+		stage: "age_cyxa"
+	}]
+}

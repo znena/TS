@@ -1,0 +1,20 @@
+{
+	title: "灰钢时代！",
+	x: 8.0d,
+	y: 0.0d,
+	description: "Balta",
+	text: [
+		"烧炼8个钢锭。"
+	],
+	dependencies: [
+		"3cca6c7e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "cd1d1fef",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 12"
+		}]
+	}]
+}

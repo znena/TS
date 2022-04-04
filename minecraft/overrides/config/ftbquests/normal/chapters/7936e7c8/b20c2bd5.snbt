@@ -1,0 +1,21 @@
+{
+	title: "铁 III",
+	x: 0.0d,
+	y: 3.0d,
+	description: "Amina/Resources",
+	text: [
+		"收集24个铁块。"
+	],
+	dependencies: [
+		"f77e6aa8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a25f6772",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_block"
+		}],
+		count: 24L
+	}]
+}

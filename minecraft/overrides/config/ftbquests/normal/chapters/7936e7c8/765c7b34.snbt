@@ -1,0 +1,29 @@
+{
+	title: "铜&锡 II",
+	x: 2.0d,
+	y: 1.5d,
+	description: "Amina/Resources",
+	text: [
+		"收集128个铜和锡。"
+	],
+	dependencies: [
+		"21e0be8e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8862fd42",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 4"
+		}],
+		count: 128L
+	},
+	{
+		uid: "25ef40ca",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 13"
+		}],
+		count: 128L
+	}]
+}

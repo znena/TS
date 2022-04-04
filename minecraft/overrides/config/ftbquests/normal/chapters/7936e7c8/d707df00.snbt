@@ -1,0 +1,28 @@
+{
+	title: "初级合金 I",
+	x: -4.0d,
+	y: 0.0d,
+	description: "Amina/Resources",
+	text: [
+		"收集16个导电铁锭、4个充能合金锭。"
+	],
+	dependencies: [
+		"675f1f89"
+	],
+	tasks: [{
+		uid: "abe82552",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot 1 4"
+		}],
+		count: 16L
+	},
+	{
+		uid: "7e58d927",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot 1 1"
+		}],
+		count: 4L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	description: "Balta",
+	text: [
+		"制作辊压机。"
+	],
+	dependencies: [
+		"99eafa0b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "49bf4195",
+		type: "item",
+		items: [{
+			item: "techreborn:rolling_machine"
+		}]
+	}]
+}

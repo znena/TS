@@ -1,0 +1,19 @@
+{
+	title: "？？？",
+	icon: "astralsorcery:itemcraftingcomponent 1 2",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Infinity",
+	dependencies: [
+		"4a94fa26",
+		"664800bf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6644c8e6",
+		type: "gamestage",
+		title: "第七阶段",
+		icon: "astralsorcery:blockattunementaltar",
+		stage: "age_dunc_second"
+	}]
+}

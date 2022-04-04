@@ -1,0 +1,16 @@
+{
+	title: "第零阶段",
+	icon: "minecraft:dirt",
+	x: -3.0d,
+	y: 0.0d,
+	description: "Amina",
+	text: [
+		"点击以解锁第零阶段。"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "32e54b2a",
+		type: "checkmark",
+		title: "确认"
+	}]
+}

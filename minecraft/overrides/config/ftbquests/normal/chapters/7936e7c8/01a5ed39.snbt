@@ -1,0 +1,27 @@
+{
+	title: "能量 I",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "techreborn:rebattery",
+		tag: {
+			energy: 40000
+		}
+	},
+	x: 0.0d,
+	y: -2.5d,
+	description: "Amina/Resources",
+	text: [
+		"收集 250 kEU。"
+	],
+	dependencies: [
+		"3e6c02dd"
+	],
+	hide: true,
+	tasks: [{
+		uid: "228e4210",
+		type: "forge_energy",
+		value: 1000000L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "青铜 II",
+	x: 4.0d,
+	y: 1.5d,
+	description: "Amina/Resources",
+	text: [
+		"收集64个青铜块。"
+	],
+	dependencies: [
+		"bb9d2ac3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9bce8ee0",
+		type: "item",
+		title: "青铜 II",
+		items: [{
+			item: "techreborn:storage 1 14"
+		}],
+		count: 64L
+	}]
+}

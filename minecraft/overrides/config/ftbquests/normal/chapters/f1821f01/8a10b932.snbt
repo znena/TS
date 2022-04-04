@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: 3.5d,
+	description: "Balta",
+	text: [
+		"制作工业电解机。"
+	],
+	dependencies: [
+		"30df5e9a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "39bd83b0",
+		type: "item",
+		items: [{
+			item: "techreborn:industrial_electrolyzer"
+		}]
+	}]
+}

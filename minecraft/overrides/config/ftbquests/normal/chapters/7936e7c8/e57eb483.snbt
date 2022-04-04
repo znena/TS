@@ -1,0 +1,21 @@
+{
+	title: "琥珀金版 I",
+	x: -2.0d,
+	y: -2.5d,
+	description: "Amina/Resources",
+	text: [
+		"收集16个琥珀金版。"
+	],
+	dependencies: [
+		"b2f9b94e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ff22a58c",
+		type: "item",
+		items: [{
+			item: "techreborn:plates 1 22"
+		}],
+		count: 16L
+	}]
+}

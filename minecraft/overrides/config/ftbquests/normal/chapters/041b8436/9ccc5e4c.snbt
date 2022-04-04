@@ -1,0 +1,48 @@
+{
+	title: "第二阶段",
+	icon: "techreborn:part 1 29",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Amina",
+	text: [
+		"制作压缩机，已解锁第二阶段。",
+		"消耗8个基础电路板、24个硼锭。"
+	],
+	dependencies: [
+		"a117e09a",
+		"fe453feb",
+		"f14312c4"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "c242dc84",
+		type: "checkmark",
+		title: "确认"
+	},
+	{
+		uid: "6f73ae4b",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 29"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "7ebc1985",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ingot 1 5"
+		}],
+		count: 24L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "8eb90234",
+		type: "gamestage",
+		title: "解锁第二阶段",
+		icon: "techreborn:part 1 29",
+		stage: "age_amina_second"
+	}]
+}

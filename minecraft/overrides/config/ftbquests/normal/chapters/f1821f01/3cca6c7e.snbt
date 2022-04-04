@@ -1,0 +1,30 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	description: "Balta",
+	text: [
+		"制作工业高炉及其多方块结构材料。"
+	],
+	dependencies: [
+		"9e2dc771",
+		"9da6c5c0"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "649aa9c7",
+		type: "item",
+		items: [{
+			id: "techreborn:industrial_blast_furnace",
+			tag: {}
+		}]
+	},
+	{
+		uid: "ef5362d3",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_casing"
+		}],
+		count: 26L
+	}]
+}

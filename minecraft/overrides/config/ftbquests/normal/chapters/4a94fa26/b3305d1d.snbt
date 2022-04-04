@@ -1,0 +1,21 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	description: "Cyxa",
+	text: [
+		"制作高级火箭：切割机。"
+	],
+	dependencies: [
+		"f70093fe",
+		"6ea0dd2a"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "c1eb8971",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:cuttingmachine"
+		}]
+	}]
+}

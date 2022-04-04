@@ -1,0 +1,19 @@
+{
+	title: "电路版增产",
+	x: 3.0d,
+	y: -4.5d,
+	description: "Balta",
+	text: [
+		"制作控制电路加工厂。"
+	],
+	dependencies: [
+		"229c8aa3"
+	],
+	tasks: [{
+		uid: "a479ad49",
+		type: "item",
+		items: [{
+			item: "techreborn:assembling_machine"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "高强合金",
+	x: -3.0d,
+	y: -2.5d,
+	description: "Cyxa",
+	text: [
+		"炼制16个高强合金。"
+	],
+	dependencies: [
+		"229c8aa3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "74a6dc85",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:alloy 1 1"
+		}],
+		count: 16L
+	}]
+}

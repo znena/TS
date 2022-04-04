@@ -1,0 +1,23 @@
+{
+	title: "介绍",
+	icon: "minecraft:grass",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Info",
+	text: [
+		"TR：Sync 是一个大型科技魔改整合包。",
+		"这个整合包修改了世界生成，物品制造，",
+		"且增加了游戏阶段。",
+		"",
+		"我们（ Gnz Club ）为这个整合包花费了将近 50 小时。",
+		"",
+		"（ 目前处于测试阶段，0.0.4.4 - 22/2/13 ）"
+	],
+	size: 1.5d,
+	optional: true,
+	tasks: [{
+		uid: "1150026b",
+		type: "checkmark",
+		title: "确认"
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "铜&锡 I",
+	x: 2.0d,
+	y: 0.0d,
+	description: "Amina/Resources",
+	dependencies: [
+		"29fdf659"
+	],
+	tasks: [{
+		uid: "cf65aea2",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 4"
+		}],
+		count: 32L
+	},
+	{
+		uid: "04db2614",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 13"
+		}],
+		count: 32L
+	}]
+}

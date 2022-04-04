@@ -1,0 +1,22 @@
+{
+	title: "中压机械方块",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Balta",
+	text: [
+		"制作进阶机械框架。"
+	],
+	dependencies: [
+		"99eafa0b",
+		"f70093fe"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "872830d7",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_frame 1 1"
+		}]
+	}]
+}

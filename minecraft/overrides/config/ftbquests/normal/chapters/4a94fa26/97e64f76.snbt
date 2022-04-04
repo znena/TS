@@ -1,0 +1,21 @@
+{
+	title: "集成 I",
+	icon: "advancedrocketry:ic",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Cyxa",
+	text: [
+		"制作基础芯片。"
+	],
+	dependencies: [
+		"b3305d1d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b255c05a",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:ic"
+		}]
+	}]
+}

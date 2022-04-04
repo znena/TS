@@ -1,0 +1,20 @@
+{
+	title: "镍",
+	x: 3.0d,
+	y: 2.0d,
+	description: "Balta",
+	text: [
+		"制作镍锭。"
+	],
+	dependencies: [
+		"1664f812"
+	],
+	hide: true,
+	tasks: [{
+		uid: "82b001ab",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 9"
+		}]
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "能量 II",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "techreborn:lithiumbattery",
+		tag: {
+			energy: 400000
+		}
+	},
+	x: 0.0d,
+	y: -4.0d,
+	description: "Amina/Resources",
+	text: [
+		"收集 4 MEU。"
+	],
+	dependencies: [
+		"01a5ed39"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e50a05f3",
+		type: "forge_energy",
+		value: 16000000L
+	}]
+}

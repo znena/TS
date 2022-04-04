@@ -1,0 +1,18 @@
+{
+	title: "深入末地",
+	icon: "minecraft:end_stone",
+	x: 0.0d,
+	y: -2.5d,
+	description: "Balta/Adventure",
+	text: [
+		"进入末地。"
+	],
+	dependencies: [
+		"9ccc5e4c"
+	],
+	tasks: [{
+		uid: "29f4eacf",
+		type: "dimension",
+		dim: 1
+	}]
+}

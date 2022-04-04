@@ -1,0 +1,33 @@
+{
+	title: "购买：精炼铁",
+	icon: "techreborn:ingot 1 19",
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "Amina/Shop",
+	text: [
+		"消耗4个绿宝石，购买8个精炼铁锭。"
+	],
+	can_repeat: true,
+	dependencies: [
+		"68008bab"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "80f14e3d",
+		type: "item",
+		items: [{
+			item: "minecraft:emerald"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "5c5774fc",
+		type: "item",
+		auto: "enabled",
+		item: "techreborn:ingot 1 19",
+		count: 8
+	}]
+}

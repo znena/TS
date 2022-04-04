@@ -1,0 +1,47 @@
+{
+	title: "第四阶段",
+	icon: "nuclearcraft:alloy 1 1",
+	x: 9.0d,
+	y: 0.0d,
+	description: "Balta",
+	text: [
+		"..."
+	],
+	dependencies: [
+		"e20e56a6",
+		"229c8aa3"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "da86c941",
+		type: "checkmark",
+		title: "确认"
+	},
+	{
+		uid: "afec80bc",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fuel_plutonium 1 6"
+		}],
+		count: 16L,
+		consume_items: true
+	},
+	{
+		uid: "1819944e",
+		type: "item",
+		items: [{
+			item: "techreborn:plates 1 38"
+		}],
+		count: 4L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "cc93ede1",
+		type: "gamestage",
+		title: "解锁第四阶段",
+		icon: "nuclearcraft:alloy 1 1",
+		auto: "no_toast",
+		stage: "age_balta_second"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "铁 II",
+	x: 0.0d,
+	y: 1.5d,
+	description: "Amina/Resources",
+	text: [
+		"收集64个铁锭"
+	],
+	dependencies: [
+		"8e7c5605"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d4631c88",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 64L
+	}]
+}

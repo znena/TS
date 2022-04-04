@@ -1,0 +1,19 @@
+# TR: Sync Lang en_us | 22/1/16
+item.contenttweaker.boron_nugget.name=Boron Nugget
+item.contenttweaker.lithium_nugget.name=Lithium Nugget
+item.contenttweaker.magnesium_nugget.name=Magnesium Nugget
+item.contenttweaker.rough_plastic_plate.name=Rough Plastic Plate
+item.contenttweaker.rough_energetic_alloy_ingot.name=Rough Plastic Plate
+item.contenttweaker.plastic_rode.name=Plastic Rode
+item.contenttweaker.calcite_dust.name=Calcite Dust
+item.contenttweaker.refined_iron_dust.name=Refined Iron Dust
+item.contenttweaker.conductive_iron_dust.name=Conductive Iron Dust
+item.contenttweaker.conductive_iron_small_dust.name=Small Conductive Iron Dust
+
+item.contenttweaker.bronze_hammer.name=Bronze Hammer
+item.contenttweaker.refined_iron_hammer.name=Refined Iron Hammer
+item.contenttweaker.tough_alloy_hammer.name=Tought Alloy Hammer
+item.contenttweaker.boron_mortar.name=Boron Mortar
+
+tile.contenttweaker.calcite.name=Calcite
+tile.contenttweaker.basalt.name=Basalt

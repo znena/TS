@@ -1,0 +1,24 @@
+{
+	title: "高级材料：版",
+	x: 11.0d,
+	y: 1.5d,
+	dependencies: [
+		"51db3ea3",
+		"8f9d7c3b"
+	],
+	tasks: [{
+		uid: "d25f38bb",
+		type: "item",
+		items: [{
+			item: "techreborn:plates 1 33"
+		}],
+		count: 2L
+	},
+	{
+		uid: "b62a7234",
+		type: "item",
+		items: [{
+			item: "techreborn:plates 1 38"
+		}]
+	}]
+}

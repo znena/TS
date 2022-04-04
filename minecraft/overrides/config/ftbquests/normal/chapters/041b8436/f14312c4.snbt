@@ -1,0 +1,39 @@
+{
+	title: "第一阶段",
+	icon: "techreborn:ingot 1 2",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Amina",
+	text: [
+		"制作火力发电机，以解锁第一阶段。",
+		"消耗2个钻石碎石以解锁。"
+	],
+	dependencies: [
+		"3e6c02dd",
+		"10364850",
+		"0307eb34"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "bb006ffe",
+		type: "checkmark",
+		title: "确认"
+	},
+	{
+		uid: "8329e3a9",
+		type: "item",
+		items: [{
+			item: "improvedextraction:raw_crystal"
+		}],
+		count: 2L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "2997c9a7",
+		type: "gamestage",
+		title: "解锁第一阶段",
+		icon: "techreborn:ingot 1 2",
+		stage: "age_amina_first"
+	}]
+}

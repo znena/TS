@@ -1,0 +1,20 @@
+{
+	title: "铁 I",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Amina/Resources",
+	text: [
+		"收集16个铁锭。"
+	],
+	dependencies: [
+		"41a03e89"
+	],
+	tasks: [{
+		uid: "1e06b857",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 16L
+	}]
+}

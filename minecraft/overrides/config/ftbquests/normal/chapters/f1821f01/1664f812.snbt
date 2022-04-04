@@ -1,0 +1,20 @@
+{
+	title: "离心",
+	x: 1.5d,
+	y: 2.0d,
+	description: "Balta",
+	text: [
+		"制作工业离心机。"
+	],
+	dependencies: [
+		"30df5e9a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d70e58a9",
+		type: "item",
+		items: [{
+			item: "techreborn:industrial_centrifuge"
+		}]
+	}]
+}

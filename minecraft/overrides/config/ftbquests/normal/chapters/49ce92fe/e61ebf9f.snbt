@@ -1,0 +1,19 @@
+{
+	title: "“我们需要再深入些”",
+	icon: "minecraft:netherrack",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Amina/Adventure",
+	text: [
+		"进入下界。"
+	],
+	dependencies: [
+		"41a03e89"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "bd2e0711",
+		type: "dimension",
+		dim: -1
+	}]
+}

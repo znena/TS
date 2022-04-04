@@ -1,0 +1,20 @@
+{
+	title: "钨",
+	x: 11.0d,
+	y: -1.5d,
+	description: "Balta",
+	text: [
+		"炼制钨锭。"
+	],
+	dependencies: [
+		"ea6e7457",
+		"d8680eb2"
+	],
+	tasks: [{
+		uid: "94d9def7",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 15"
+		}]
+	}]
+}

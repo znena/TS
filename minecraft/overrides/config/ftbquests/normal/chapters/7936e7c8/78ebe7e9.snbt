@@ -1,0 +1,17 @@
+{
+	title: "铅 I",
+	x: -2.0d,
+	y: 0.0d,
+	description: "Amina/Resources",
+	dependencies: [
+		"29fdf659"
+	],
+	tasks: [{
+		uid: "77afeae4",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 8"
+		}],
+		count: 64L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "“可怕的要塞”",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Amina/Adventure",
+	dependencies: [
+		"e61ebf9f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "543f4b52",
+		type: "advancement",
+		advancement: "minecraft:nether/find_fortress",
+		criterion: ""
+	}]
+}

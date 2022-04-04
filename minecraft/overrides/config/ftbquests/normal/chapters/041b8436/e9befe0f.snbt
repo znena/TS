@@ -1,0 +1,21 @@
+{
+	title: "第六阶段",
+	x: 12.0d,
+	y: 3.0d,
+	description: "Dunc",
+	text: [
+		"前往月球。",
+		"更多内容敬请期待..."
+	],
+	dependencies: [
+		"664800bf"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "c39bf160",
+		type: "checkmark",
+		title: "确认",
+		icon: "advancedrocketry:moonturf"
+	}]
+}

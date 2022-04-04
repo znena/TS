@@ -1,0 +1,16 @@
+{
+	title: "铱",
+	x: 5.0d,
+	y: 4.5d,
+	description: "Balta",
+	dependencies: [
+		"b0ff610f"
+	],
+	tasks: [{
+		uid: "2057c6a4",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 7"
+		}]
+	}]
+}

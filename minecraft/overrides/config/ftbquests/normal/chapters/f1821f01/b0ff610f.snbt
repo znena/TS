@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 5.0d,
+	description: "Balta",
+	dependencies: [
+		"8a10b932"
+	],
+	tasks: [{
+		uid: "8c615058",
+		type: "item",
+		items: [{
+			item: "techreborn:industrial_grinder"
+		}]
+	}]
+}

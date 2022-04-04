@@ -1,0 +1,19 @@
+{
+	title: "阅历丰富",
+	x: 0.0d,
+	y: 2.5d,
+	description: "Amina/Adventure",
+	text: [
+		"收集30级经验。"
+	],
+	dependencies: [
+		"dc2977f3",
+		"0307eb34"
+	],
+	tasks: [{
+		uid: "27829700",
+		type: "xp",
+		value: 30L,
+		points: false
+	}]
+}

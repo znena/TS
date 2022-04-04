@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -2.5d,
+	description: "Balta",
+	text: [
+		"制作高级电路板。"
+	],
+	dependencies: [
+		"ad5ecbea"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ed822c8d",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 30"
+		}]
+	}]
+}

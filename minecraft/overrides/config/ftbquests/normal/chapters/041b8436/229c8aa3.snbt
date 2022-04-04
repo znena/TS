@@ -1,0 +1,39 @@
+{
+	title: "第三阶段",
+	icon: "techreborn:ingot 1 12",
+	x: 6.0d,
+	y: 0.0d,
+	description: "Balta",
+	text: [
+		"烧制钢锭并制作硅版，以解锁第三阶段。",
+		"消耗一个碳化硅锭。"
+	],
+	dependencies: [
+		"9ccc5e4c",
+		"5209e969",
+		"c9eee8da"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "0b6970aa",
+		type: "checkmark",
+		title: "确认"
+	},
+	{
+		uid: "9f9ba8c7",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:alloy 1 13"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "90dad17c",
+		type: "gamestage",
+		title: "解锁第三阶段",
+		icon: "techreborn:ingot 1 12",
+		auto: "no_toast",
+		stage: "age_balta_first"
+	}]
+}

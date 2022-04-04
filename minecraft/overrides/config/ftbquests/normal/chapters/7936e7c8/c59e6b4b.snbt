@@ -1,0 +1,29 @@
+{
+	title: "初级电路板 I",
+	x: 2.0d,
+	y: -2.5d,
+	description: "Amina/Resources",
+	text: [
+		"收集16个空白电路板，4个基础电路板。"
+	],
+	dependencies: [
+		"2510cea9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7efecac8",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 40"
+		}],
+		count: 16L
+	},
+	{
+		uid: "26f25670",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 29"
+		}],
+		count: 4L
+	}]
+}
