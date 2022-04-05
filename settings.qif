@@ -2,8 +2,8 @@
     title : "Technology Synchronization",
     version : "0.0.4.4",
 	version : 15 ,
-	version_detailed : "0.0.4.4 dev",
-	version_detailed : 75,
+	version_detailed : "0.0.4.5-BETA",
+	version_detailed : 76,
 	authors : ["znena", "Qerenedit"],
-	update_time : 385
+	update_time : 2243
 }
